@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "qamart-ai-testing",
+  "version": "1.0.0",
+  "description": "AI-assisted testing for QA Mart: login, search and add to cart, and checkout. Instructions, /smoke-test and /review-test commands, skills, planner, healer and read-only reviewer agents, Playwright and GitHub MCP servers, and test.only and lint hooks.",
+  "keywords": ["playwright", "testing", "qa", "mcp", "qamart"],
+  "license": "MIT"
+}

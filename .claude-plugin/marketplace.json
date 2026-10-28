@@ -8,6 +8,11 @@
       "name": "playwright-qa-toolkit",
       "source": "./playwright-qa-toolkit",
       "description": "A minimal QA toolkit for reviewing Playwright tests and analyzing test failures."
+    },
+    {
+      "name": "qamart-ai-testing",
+      "source": "./qamart-ai-testing",
+      "description": "AI-assisted testing for QA Mart login, search and add to cart, and checkout: instructions, /smoke-test and /review-test, skills, planner, healer and reviewer agents, MCP servers and hooks."
     }
   ]
 }
